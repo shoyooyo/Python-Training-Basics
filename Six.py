@@ -63,6 +63,9 @@ Join -
 >>> e = "ajaz, ahmed, sonu, mithu"
 >>> e.split(",")
 ['ajaz', ' ahmed', ' sonu', ' mithu']
+>>> my_string = "a0:12:90:00:80:43"
+>>> my_string.split(':')
+['a0', '12', '90', '00', '80', '43']
 >>> a
 'ajaz ahmed'
 >>> "_".(a)
