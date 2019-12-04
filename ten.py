@@ -26,3 +26,4 @@
 # example of start:stop:step
     >>> my [1:7:2]
     '135'
+
